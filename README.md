@@ -25,16 +25,13 @@ aplikasi pesan tiket dengan konsep crud, dan tampilan menggunakan bootstrap
 📦serkom
 ┣ 📂chartjs
 ┃ ┣ 📜chart.js
-┣ 📜daftar.php
+┣ 📜form-pendaftaran.php
 ┣ 📜detail.php
-┣ 📜edit.php
-┣ 📜favico.ico
-┣ 📜grafik.php
+┣ 📜simpan-pendaftaran.php
 ┣ 📜hapus.php
 ┣ 📜index.php
 ┣ 📜koneksi.php
-┣ 📜pemesanan.sql
-┗ 📜pesan.php
+┗ 📜admin.php
 
 ## Documentation
 
