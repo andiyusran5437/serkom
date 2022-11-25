@@ -27,6 +27,7 @@ aplikasi pesan tiket dengan konsep crud, dan tampilan menggunakan bootstrap
 ┃ ┣ 📜chart.js
 ┣ 📜form-pendaftaran.php
 ┣ 📜detail.php
+┣ 📜daftar-harga.php
 ┣ 📜simpan-pendaftaran.php
 ┣ 📜hapus.php
 ┣ 📜index.php
