@@ -72,7 +72,6 @@
              <td>Rp. <?php echo $data['total_bayar'] ?></td>
              <td>
              <a href="detail.php?id_pendaftar=<?php echo $data['id_pendaftar']?>" class="btn btn-info btn-xs">Detail</a>
-             <a href="edit.php?id_pendaftar=<?php echo $data['id_pendaftar']?>" class="btn btn-warning btn-xs">Edit</a>
              <a href="hapus.php?id_pendaftar=<?php echo $data['id_pendaftar']; ?>" class="btn btn-danger btn-xs">Hapus</a>
          </td>
       </tr>
